@@ -22,7 +22,7 @@ Offline - profiles stored localy
 
 
 -----------------------------------------------------------------------------
-I am new to programming with C# so the app might be a bit buggy (I tried my best to get it bug free!), I did have help from AI to create this app.
+I'm new to programming with C# so the app might be a bit buggy (I tried my best to get it bug free!), I did have help from AI to create this app.
 
 I am open to any suggestions / feedback! :)
 
