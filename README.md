@@ -26,8 +26,6 @@ I am new to programming with C# so the app might be a bit buggy (I tried my best
 
 I am open to any suggestions / feedback! :)
 
-Link: https://drive.google.com/file/d/1i0l0Hg7FnOpqevCBdSFf9lki8z4WjdLS/view?usp=drive_link
-
 Key: IPSHIFT-X6UF9-52HC0
 
 Hope if come in handy!
