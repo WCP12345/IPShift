@@ -28,4 +28,4 @@ Open to any suggestions / feedback! :)
 
 Key: IPSHIFT-X6UF9-52HC0
 
-Hope if come in handy!
+Hope it come in handy!
