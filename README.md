@@ -11,6 +11,8 @@ Designed for engineers who frequently switch between machine networks, office ne
 
 This is especially useful for engineers, IT staff, and anyone regularly connecting to devices on different subnets.
 
+<img width="1503" height="520" alt="IPShift_Image3" src="https://github.com/user-attachments/assets/cfc4a09a-64bf-433f-8264-4edfbf9cb227" />
+
 ## Features
 
 • Save and manage multiple IP configuration profiles  
